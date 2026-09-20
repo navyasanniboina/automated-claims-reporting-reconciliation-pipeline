@@ -1,0 +1,5 @@
+claim_status,total_claims,avg_claim,total_claim_value
+Unknown,136,25645.66,3487810.31
+Pending,125,25545.76,3193220.29
+Approved,126,23114.98,2912487.34
+Denied,113,23359.38,2639609.45
